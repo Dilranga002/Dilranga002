@@ -1,30 +1,77 @@
 <div align="center">
 
-# 👋 Hey, I'm Heshan Dilranga
+<!-- ANIMATED HEADER -->
 
-### `Software Engineering Student` • `Future AI Engineer` • `UI/UX Enthusiast`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=220&section=header&text=Heshan%20Dilranga&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Future%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<!-- TYPING ANIMATION -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Software+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;Future+AI+Engineer+%F0%9F%A4%96;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Future+AI+Engineer;Full+Stack+Developer;UI%2FUX+Designer;Always+Learning+%26+Building" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Dilranga002&style=for-the-badge&color=7B2CFF" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 `whoami`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   👋 Hello! I'm Heshan Dilranga                           │
+│                                                            │
+│   🎓 Software Engineering Student                         │
+│   🤖 Future AI Engineer                                   │
+│   💻 Full-Stack Developer                                 │
+│   🎨 UI/UX Designer                                       │
+│                                                            │
+│   I build → I break → I debug → I learn → I improve 🚀   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+> 💡 Passionate about building modern software, solving real-world problems, and exploring Artificial Intelligence.
+
+---
+
+# ⚡ `SYSTEM STATUS`
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                 DEVELOPER TERMINAL                    │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│  USER        : Heshan Dilranga                        │
+│  ROLE        : Software Engineering Student           │
+│  STATUS      : ● ONLINE                               │
+│  CURRENT     : Building & Learning                    │
+│  FOCUS       : AI + Software Engineering              │
+│  LOCATION    : Sri Lanka 🇱🇰                          │
+│                                                       │
+│  > Initializing developer mode...                     │
+│  > Loading creativity........................ OK      │
+│  > Loading problem solving.................... OK      │
+│  > Loading coffee............................. OK ☕   │
+│  > System ready................................ 🚀    │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧠 `ABOUT_ME`
 
 ```javascript
-const heshan = {
+const developer = {
+    name: "Heshan Dilranga",
+
     role: "Software Engineering Student",
-    goal: "AI Engineer",
+
+    goal: "Become an AI Engineer",
+
     interests: [
         "Artificial Intelligence",
         "Software Engineering",
@@ -32,214 +79,225 @@ const heshan = {
         "UI/UX Design",
         "Problem Solving"
     ],
+
     currentlyLearning: [
         "React",
-        "Node.js",
         "TypeScript",
+        "Node.js",
         "Java",
         "Python",
-        "AI & Machine Learning"
+        "Machine Learning"
     ],
-    mindset: "Learn → Build → Break → Fix → Improve 🚀"
+
+    philosophy:
+        "Learn → Build → Test → Break → Fix → Improve 🚀"
 };
 ```
 
-> 💡 I enjoy turning ideas into real-world software and continuously improving my technical and problem-solving skills.
-
 ---
 
-## ⚡ Tech Stack
+# 🛠️ `TECH_STACK`
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css" />
-</p>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css&perline=7" />
+
+<br><br>
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=4" />
 
-### 🗄️ Database & Backend
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
-</p>
+### 🗄️ Database
 
-### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=3" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
-</p>
+<br><br>
 
----
+### 🧰 Tools
 
-## 🚀 Featured Projects
-
-### 🚢 CargoMetric — Maritime Cargo Management System
-
-A web-based maritime cargo management system designed for vessel, container, loading, unloading and stability management.
-
-**Tech:** React • TypeScript • Node.js • Express • SQLite
-
-🔗 **Repository:**
-`https://github.com/YOUR_USERNAME/Navigation_project`
-
----
-
-### 🌐 Project 02 — Your Project Name
-
-> Add your second important Software Engineering project here.
-
-**Tech:** `React • Node.js • JavaScript`
-
-🔗 **Repository:**
-`https://github.com/YOUR_USERNAME/YOUR_PROJECT`
-
----
-
-### 🤖 Project 03 — AI / Machine Learning Project
-
-> Add your AI or Machine Learning project here.
-
-**Tech:** `Python • AI • Machine Learning`
-
-🔗 **Repository:**
-`https://github.com/YOUR_USERNAME/YOUR_PROJECT`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman&perline=6" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 `FEATURED_PROJECT`
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🎯 2026 Goals
+## 🚢 CargoMetric
 
 ```text
-[████████████████░░░░] Improve Software Engineering Skills
-[██████████████░░░░░░] Build Full-Stack Applications
-[████████████░░░░░░░░] Learn AI & Machine Learning
-[██████████░░░░░░░░░░] Improve System Design
-[████████░░░░░░░░░░░░] Build Open Source Projects
+╔══════════════════════════════════════════════════════╗
+║                  CARGOMETRIC                         ║
+║                                                      ║
+║  Maritime Cargo Loading & Management System          ║
+║                                                      ║
+║  ✓ Vessel Management                                 ║
+║  ✓ Container Management                              ║
+║  ✓ Cargo Loading                                     ║
+║  ✓ Cargo Unloading                                   ║
+║  ✓ Water Balancing                                   ║
+║  ✓ Vessel Stability                                  ║
+║  ✓ Stress Monitoring                                 ║
+║  ✓ Authentication                                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-### My focus
+**Built with**
 
-* 🧠 Artificial Intelligence
-* 💻 Advanced Software Engineering
-* 🌐 Full-Stack Development
-* 🎨 UI/UX Design
-* 🗄️ Database Engineering
-* 🔐 Authentication & Security
-* ☁️ Cloud & Deployment
-* 📚 Continuous Learning
+`React` `TypeScript` `Node.js` `Express` `SQLite` `Vite`
+
+🔗 **Repository:**
+https://github.com/Dilranga002/Navigation_project
 
 ---
 
-## 🧩 Current Learning Journey
+# 📊 `GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dilranga002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilranga002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🔥 `CODING_STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dilranga002&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00C8&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# 📈 `ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilranga002&bg_color=0D1117&color=00F7FF&line=7B2CFF&point=FF00C8&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dilranga002/Dilranga002/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🎯 `CURRENT_MISSION`
 
 ```text
-Software Engineering
-        │
-        ├── Frontend
-        │     ├── React
-        │     ├── TypeScript
-        │     └── UI/UX
-        │
-        ├── Backend
-        │     ├── Node.js
-        │     ├── Express
-        │     └── REST APIs
-        │
-        ├── Database
-        │     ├── SQL
-        │     ├── SQLite
-        │     └── Database Design
-        │
-        └── Artificial Intelligence
-              ├── Python
-              ├── Machine Learning
-              └── AI Engineering
+┌─────────────────────────────────────────────────────────┐
+│                    2026 MISSION                         │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  [██████████████████░░] Software Engineering            │
+│  [███████████████░░░░░] Full-Stack Development          │
+│  [██████████████░░░░░░] React + TypeScript              │
+│  [████████████░░░░░░░░] Backend Development              │
+│  [██████████░░░░░░░░░░] Artificial Intelligence         │
+│  [████████░░░░░░░░░░░░] Machine Learning                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💡 Development Philosophy
+# 🧩 `LEARNING_PATH`
 
 ```text
-Think → Design → Code → Test → Debug → Deploy → Improve
+                         ┌───────────────┐
+                         │  SOFTWARE ENG │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+        ┌───────────┐      ┌───────────┐      ┌───────────┐
+        │  FRONTEND │      │  BACKEND  │      │    AI     │
+        └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
+              │                  │                  │
+              ▼                  ▼                  ▼
+          React              Node.js           Python
+          Vite               Express            ML
+          TypeScript         REST API            AI
+          UI/UX              Database           Data
 ```
 
-> "Great software is not built in one attempt.
-> It is improved through continuous learning, testing and iteration."
-
 ---
 
-## 🌱 Beyond Coding
-
-* 🎨 UI/UX Design
-* 🤝 Team Collaboration
-* 🧩 Problem Solving
-* 📖 Continuous Learning
-* 🏆 Leadership & Teamwork
-* ⏱️ Time Management
-
----
-
-## 📫 Connect With Me
+# 💡 `DEVELOPER_MINDSET`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+```text
+     THINK
+       ↓
+     DESIGN
+       ↓
+      CODE
+       ↓
+      TEST
+       ↓
+     DEBUG
+       ↓
+     DEPLOY
+       ↓
+    IMPROVE
+       ↺
+```
+
+### `Every bug is another lesson. Every project is another level. 🚀`
+
+</div>
+
+---
+
+# 🌱 `BEYOND_CODE`
+
+```text
+🎨 UI/UX Design
+🤝 Team Collaboration
+🧠 Problem Solving
+📚 Continuous Learning
+🏆 Leadership
+⏱️ Time Management
+🚀 Innovation
+```
+
+---
+
+# 📫 `CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://github.com/Dilranga002">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -248,9 +306,10 @@ Think → Design → Code → Test → Debug → Deploy → Improve
 
 <div align="center">
 
-### 🚀 Building Today. Learning Every Day. Engineering the Future.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=120&section=footer&animation=fadeIn"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+### `🚀 Build. Learn. Break. Fix. Repeat.`
+
+**Thanks for visiting my profile!**
 
 </div>
-
