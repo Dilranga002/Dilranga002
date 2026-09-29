@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="assets/hero.svg" alt="Heshan Dilranga - Software Engineer" width="100%"/>
-
+<div align="center"> <img src="assets/hero.svg" alt="Heshan Dilranga - Software Engineer" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;Future+AI+Engineer+%F0%9F%A4%96;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" alt="Typing animation"/> <br> <img src="https://komarev.com/ghpvc/?username=Dilranga002&style=for-the-badge&color=7B2CFF&label=PROFILE+VIEWS" alt="Profile views"/> <img src="https://img.shields.io/github/followers/Dilranga002?style=for-the-badge&logo=github&color=00F5FF&labelColor=0D1117" alt="Followers"/> <img src="https://img.shields.io/github/stars/Dilranga002/Navigation_project?style=for-the-badge&logo=github&color=FF00C8&labelColor=0D1117" alt="CargoMetric stars"/> <img src="https://img.shields.io/github/last-commit/Dilranga002/Navigation_project?style=for-the-badge&color=7B2CFF&labelColor=0D1117" alt="Last commit"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;Future+AI+Engineer+%F0%9F%A4%96;Turning+Ideas+Into+Real+Software+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br>
