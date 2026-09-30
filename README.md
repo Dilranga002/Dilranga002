@@ -114,7 +114,9 @@ I believe good software is built through **continuous learning, problem solving,
 <br>
 
 <a href="https://github.com/Dilranga002/Navigation_project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilranga002&repo=Navigation_project&theme=tokyonight&hide_border=true&show_owner=true" alt="CargoMetric repo card"/>
+<img src="https://img.shields.io/github/languages/top/Dilranga002/Navigation_project?style=for-the-badge&color=00F5FF&labelColor=0D1117" alt="Top language"/>
+<img src="https://img.shields.io/github/repo-size/Dilranga002/Navigation_project?style=for-the-badge&color=7B2CFF&labelColor=0D1117" alt="Repo size"/>
+<img src="https://img.shields.io/github/last-commit/Dilranga002/Navigation_project?style=for-the-badge&color=FF00C8&labelColor=0D1117" alt="Last commit"/>
 </a>
 
 </div>
@@ -188,20 +190,17 @@ npm run dev
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dilranga002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilranga002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details"/>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="70%" alt="Productive time"/>
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Dilranga002&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00C8&currStreakLabel=00F7FF" alt="Streak stats"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dilranga002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilranga002&bg_color=0D1117&color=00F7FF&line=7B2CFF&point=FF00C8&area=true&hide_border=true" width="100%" alt="Activity graph"/>
 
 <br>
 
@@ -267,10 +266,6 @@ flowchart TD
 `🤝 Teamwork` • `🎨 UI/UX` • `🧠 Problem Solving` • `📚 Learning`
 
 `🏆 Leadership` • `⏱️ Time Management` • `🚀 Innovation`
-
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 
 </div>
 
